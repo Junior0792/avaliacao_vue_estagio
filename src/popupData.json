@@ -1,0 +1,18 @@
+{
+  "caça-níquel": {
+    "title": "Pop-up Caça-níquel",
+    "subtitle": "Divirta-se com nosso jogo caça-níquel!",
+    "content": "Jogo caça-níquel",
+    "formFields": ["Email", "Nome", "Número de celular", "Gênero"],
+    "consentCheckbox": true
+  },
+  "vídeo": {
+    "title": "Pop-up de Vídeo",
+    "subtitle": "Assista ao nosso vídeo promocional!",
+    "content": "URL do vídeo",
+    "formFields": ["Email", "Nome"],
+    "consentCheckbox": false
+  }
+}
+
+  
